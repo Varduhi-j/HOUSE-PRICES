@@ -1,0 +1,6 @@
+Model,CV_RMSE
+Tuned Gradient Boosting,0.11905944707602645
+Gradient Boosting,0.12209350721776543
+Linear Regression,0.13081729784745857
+Random Forest,0.1330503264477998
+Baseline,0.399284908349551
